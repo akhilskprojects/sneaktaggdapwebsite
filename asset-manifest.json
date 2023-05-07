@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sneaktagdappwebsite/static/css/main.b34d3b8b.css",
+    "main.js": "/sneaktagdappwebsite/static/js/main.c610c645.js",
+    "static/js/787.620a9219.chunk.js": "/sneaktagdappwebsite/static/js/787.620a9219.chunk.js",
+    "index.html": "/sneaktagdappwebsite/index.html",
+    "main.b34d3b8b.css.map": "/sneaktagdappwebsite/static/css/main.b34d3b8b.css.map",
+    "main.c610c645.js.map": "/sneaktagdappwebsite/static/js/main.c610c645.js.map",
+    "787.620a9219.chunk.js.map": "/sneaktagdappwebsite/static/js/787.620a9219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34d3b8b.css",
+    "static/js/main.c610c645.js"
+  ]
+}
